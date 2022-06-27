@@ -1,4 +1,4 @@
-# cuisine-predictor-ml-model
+# cuisine-prediction-ml-model
 
 What if you wanted to determine whether a given cuisine was likely to use fenugreek? What if you wanted to see if, given a present of a grocery bag full of star anise, artichokes, cauliflower, and horseradish, you could create a typical Indian dish? 
 
