@@ -8,4 +8,4 @@ In the clean_data.ipynb notebook, the data is cleaned and balanced. The distribu
 
 In the classification_models.ipynb notebook, the cleaned dataset is used with a variety of classifier algorithms to predict a given national cuisine based on a group of ingredients. The classifiers used are Logistic Regression, Linear SVC Classifier, K-Neighbors Classifier, and Support Vector Classifier. For all these classifiers, the data is split into testing and training groups and the models are trained. The reports are printed and their accuracies are compared to decide which technique should finally be used to build the cuisine recommendation model. 
 
-In the cuisine_recommender_model.ipynb notebook, the SVC Classification model is built using the cleaned dataset to build the cuisine recommendation model. It is converted to Onnx to enable developers to use it in a variety of different frameworks and tools.
+In the cuisine_recommender_model.ipynb notebook, the cuisine recommendation model is built using SVC Classification model. The cleaned dataset is used to build it. The model is converted to Onnx to enable developers to use it in a variety of different frameworks and tools.
